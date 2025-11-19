@@ -173,7 +173,7 @@ footer {
 footer .social-links a {
   color: #ff6f61;
   margin: 0 0.5rem;
-  text-decoration: none;
+  text-decoration: none; 
   transition: color 0.3s;
 }
 
